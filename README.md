@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajupraaa1234&label=Profile%20views&color=0e75b6&style=flat" alt="rajupraaa1234" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajupraaa1234" alt="rajupraaa1234" /></a> </p>
-
+💼
 - 🔭 I’m currently working on [MindSpark Student App](https://play.google.com/store/apps/details?id=com.mindspark.edicine&hl=en_IN&gl=US)
 
 - 🌱 I’m currently learning **React Native/Flutter**
@@ -20,6 +20,8 @@
 - 💬 Ask me about **Mobile Development TechStack/DSA/Coding**
 
 - 📫 How to reach me **rajupraaa1234@gmail.com**
+
+- 💼 portfolio : https://rajupraaa1234.github.io/ReactMyPortfolio/
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Hi3t_5Ctav26r2h5YZltDf7wz4Eqzuze/view?usp=share_link](https://drive.google.com/file/d/1Hi3t_5Ctav26r2h5YZltDf7wz4Eqzuze/view?usp=share_link)
 
