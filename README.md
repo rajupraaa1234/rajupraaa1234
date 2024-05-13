@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajupraaa1234" alt="rajupraaa1234" /></a> </p>
 💼
-- 🔭 I’m currently working on [MindSpark Student App](https://play.google.com/store/apps/details?id=com.mindspark.edicine&hl=en_IN&gl=US)
+- 🧑🏽‍💻 Currently i'm working in Lloyds Technology Center (Bank of America) as a Android Developer : https://lloydstechnologycentre.com/ 
 
 - 🌱 I’m currently learning **React Native/Flutter**
 
