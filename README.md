@@ -25,6 +25,17 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Hi3t_5Ctav26r2h5YZltDf7wz4Eqzuze/view?usp=share_link](https://drive.google.com/file/d/1Hi3t_5Ctav26r2h5YZltDf7wz4Eqzuze/view?usp=share_link)
 
+- 🧑🏽‍💻 check my coding profiles
+
+- Leetcode : https://leetcode.com/u/rajupraaa1234/
+
+- Geeksforgeeks : https://auth.geeksforgeeks.org/user/rajupraaa1234/practice/
+
+- HackerRank : https://www.hackerrank.com/profile/rajupraaa1234
+
+- InterviewBit : https://www.interviewbit.com/profile/rajupraaa12345346/
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rajupraaa7272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajupraaa7272" height="30" width="40" /></a>
