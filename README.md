@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajupraaa1234&label=Profile%20views&color=0e75b6&style=flat" alt="rajupraaa1234" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajupraaa1234" alt="rajupraaa1234" /></a> </p>
-💼
-- 🧑🏽‍💻 Currently i'm working in Lloyds Technology Center (Bank of America) as a Android Developer : https://lloydstechnologycentre.com/ 
+
+- 🧑🏽‍💻 Currently i'm working at Lloyds Technology Center (Bank of America) as a Android Developer : https://lloydstechnologycentre.com/ 
 
 - 🌱 I’m currently learning **React Native/Flutter**
 
