@@ -9,7 +9,22 @@
 
 - 🧑🏽‍💻 Currently i'm working at Lloyds Technology Center (Bank of America) as a Android Developer : https://lloydstechnologycentre.com/ 
 
-- 🌱 I’m currently learning **React Native/Flutter**
+- 🌱 My Bref Introduction : 
+
+    Enthusiastic and results-driven mobile developer with 3 years of hands-on experience in Android, React Native, and Flutter.I specialize in crafting responsive mobile applications and take pride in producing code 
+    that is both robust and easily comprehensible.
+
+    My passion for coding and problem-solving is evident in my commitment to delivering optimal solutions. I thrive on taking ownership and responsibility for projects, consistently ensuring that the end results meet 
+    and exceed expectations.
+
+   As a growth-oriented professional, I embrace challenges as opportunities for learning, perpetually expanding my skill set. I am dedicated to maintaining an upward trajectory on my learning curve, staying abreast of 
+   industry trends and emerging technologies.
+
+   Known for my adept problem-solving skills, I approach coding with a positive mindset and a strong commitment to finding innovative solutions. I continuously seek opportunities to enhance my technical expertise, 
+   firmly believing in the power of continuous improvement.
+
+   I am a passionate coder who not only enjoys the intricacies of development but is also dedicated to delivering optimistic solutions. Open to collaborative projects and always excited about the next challenge that 
+   allows me to contribute my skills and expertise.
 
 - 👯 I’m looking to collaborate on **Competitive programming**
 
